@@ -1,0 +1,124 @@
+h1 {
+  color: White;
+  text-align: center;
+  font-size: 50px !important; font-weight: bolder;
+  top: 0px;
+}
+
+body {
+  font-family: 'Poiret One', cursive !important;
+  background-image:url('images/trio cinematic 2.png');
+  width: auto;
+}
+
+/*#backimg {
+  background-image: url('images/Screen Shot 2017-11-08 at 10.46.39 PM.png') !important;
+  height: 100%;
+  width: 100%;
+}*/
+
+#backblack {
+  background: rgba(0,0,0,.7);
+}
+
+
+#links {
+  float: left; font-weight: bolder;
+}
+
+.link {
+  font-size: 150%;
+  color: white;
+  text-decoration: none;
+  padding-right: 100px;
+  padding-left: 5px;
+}
+
+.link:hover {
+  color: red;
+}
+
+
+#emaillink {
+  color: white;
+  text-decoration: none;
+}
+
+#emaillink:hover {
+  color: red;
+}
+
+.pure-menu-link:hover {
+    color: red !important;
+    background-color: black !important;
+}
+
+.pure-g {
+  color: white;
+  text-align: center;
+}
+
+#bio {
+  font-size: 200%;
+  font-family: 'Poiret One', cursive !important; font-weight: 900; color: white; font-kerning: none;
+  filter: alpha(opacity=70);
+}
+
+#transbox {
+  background: rgba(0,0,0,.7);
+  border: 1px solid black;
+  top: 30%;
+}
+
+#menu-bar {
+  padding-bottom: 5px;
+  border-bottom: 1px solid white;
+  overflow: hidden;
+
+}
+
+#tourmap {
+  text-align: center;
+}
+
+#fb, #insta  {
+  float: right;
+  padding: 0px 35px 0px
+}
+
+#fb:hover,#insta:hover {
+  opacity: .5;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+#musicplayer {
+  text-align: center;
+}
+
+
+.contactform {
+  align-items: center;
+}
+
+label {
+  color: #df25ed;
+}
+
+input[type=text] {
+  color: yellow ;
+}
+
+button {
+  background-color: purple;
+  border: none;
+  color: white !important;
+}
+
+#comments {
+  width: ;
+  height: 150px;
+  padding: 12px 20px;
+  resize: none;
+}
+
+#instagram {align-items: center;}
